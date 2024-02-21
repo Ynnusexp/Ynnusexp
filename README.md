@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hi there , my name is Light Vo👋
+  - 💬About me: My passion for coding came after I realize I did not want to work a 6 -3 am shift organzing attorney documentation. I want to build games and web applcations that brings up nolstalgia of my childhood.. those were good times.
+  -  ⚡ Fun fact: I am a league of legends streamer.
+- 📫 How to reach me: ... 
 <!--
 **Ynnusexp/Ynnusexp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
